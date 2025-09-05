@@ -1,6 +1,6 @@
 {
   "urls": [
-    ["zipfile.py", "github:jonnor/micropython-zipfile/zipfile.py"]
+    ["zipfile.py", "github:Kitki30/micropython-zipfile-readonly/zipfile.py"]
   ],
   "deps": [
   ],
